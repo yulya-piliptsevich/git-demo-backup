@@ -5,9 +5,6 @@ Steal ice cream
 Worries vanish
 Within my dreams
 
-<<<<<<< HEAD
 left my soul there
 down by the sea
 ---------------------------------
-=======
->>>>>>> 34f413652ff972246902071d67b289a3a4a58c94
